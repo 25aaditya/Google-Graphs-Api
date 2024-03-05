@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GraphDataModelStoreContainer" CdmEntityContainer="GraphDataEntities3">
+    <EntitySetMapping Name="StudentMarks">
+      <EntityTypeMapping TypeName="GraphDataModel.StudentMark">
+        <MappingFragment StoreEntitySet="StudentMarks">
+          <ScalarProperty Name="S_no" ColumnName="S_no" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Total" ColumnName="Total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

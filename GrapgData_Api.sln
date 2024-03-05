@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrapgData_Api", "GrapgData_Api\GrapgData_Api.csproj", "{CC16D612-0FFC-4E86-A54B-0A5CBB3E6BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC16D612-0FFC-4E86-A54B-0A5CBB3E6BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC16D612-0FFC-4E86-A54B-0A5CBB3E6BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC16D612-0FFC-4E86-A54B-0A5CBB3E6BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC16D612-0FFC-4E86-A54B-0A5CBB3E6BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A99AE143-B627-4FB3-BECF-B7584D6E4C6B}
+	EndGlobalSection
+EndGlobal
